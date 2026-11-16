@@ -1,0 +1,17 @@
+{
+  "pyodide": "0.29.5",
+  "wheels": [
+    {
+      "file": "dishka-1.10.1-py3-none-any.whl",
+      "name": "dishka",
+      "version": "1.10.1",
+      "size": 120062
+    },
+    {
+      "file": "pine2pyne-0.2.13-py3-none-any.whl",
+      "name": "pine2pyne",
+      "version": "0.2.13",
+      "size": 344706
+    }
+  ]
+}
